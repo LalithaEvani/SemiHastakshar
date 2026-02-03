@@ -1,0 +1,8 @@
+- data.root_dir=/ssd_scratch/cvit/lalitha/outputs/cycle_6/data_for_training
+- pretrained=/ssd_scratch/cvit/lalitha/outputs/cycle_5/training_output_parseq/checkpoints/best.ckpt
+- ckpt_path=null
+- model=parseq
+- charset=kannada
+- dataset=real
+- trainer.max_epochs=30
+- trainer.devices=2

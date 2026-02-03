@@ -1,0 +1,27 @@
+==========================================
+SLURM_JOB_ID = 2394959
+SLURM_NODELIST = gnode030
+SLURM_JOB_GPUS = 2,3
+==========================================
+
+CondaError: Run 'conda init' before 'conda activate'
+
+  | Name       | Type           | Params
+----------------------------------------------
+0 | encoder    | Encoder        | 21.4 M
+1 | decoder    | Decoder        | 2.4 M 
+2 | head       | Linear         | 65.8 K
+3 | text_embed | TokenEmbedding | 66.4 K
+4 | dropout    | Dropout        | 0     
+----------------------------------------------
+23.9 M    Trainable params
+0         Non-trainable params
+23.9 M    Total params
+95.580    Total estimated model params size (MB)
+Error executing job with overrides: []
+Error in call to target 'pytorch_lightning.trainer.trainer.Trainer':
+MisconfigurationException('No supported gpu backend found!')
+full_key: trainer
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Training is completed

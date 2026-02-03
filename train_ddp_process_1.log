@@ -1,0 +1,368 @@
+[2025-03-13 17:04:57,639][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 17:04:57,639][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 17:05:13,389][strhub.data.dataset][INFO] - dataset root:	/home2/evanilalitha/10_generalized_hindi_HTR/generalized_hindi_HTR/data/train/real
+[2025-03-13 17:24:44,211][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 17:24:44,212][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 17:24:46,595][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 17:24:46,604][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 17:24:47,029][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 17:25:17,173][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 17:25:17,248][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 17:34:07,433][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 17:34:07,433][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 17:34:10,066][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 17:34:10,078][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 17:34:10,500][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 17:34:15,754][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 17:34:15,833][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 19:45:28,903][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 19:45:28,903][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 19:45:31,337][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 19:45:31,346][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 19:45:31,767][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 19:45:39,377][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 19:45:39,454][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 19:45:55,516][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-13 19:53:32,532][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 19:53:32,532][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 19:53:35,039][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 19:53:35,053][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 19:53:35,472][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 19:53:40,894][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 19:53:40,972][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 19:53:48,431][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-13 20:05:27,294][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 20:05:27,294][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 20:05:30,332][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 20:05:30,345][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 20:05:30,758][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 20:05:36,042][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 20:05:36,118][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 20:05:44,171][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-13 20:12:58,806][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 20:12:58,806][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 20:13:01,498][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 20:13:01,518][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 20:13:01,972][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 20:13:07,031][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 20:13:07,110][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 20:13:15,704][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-13 20:22:16,467][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 20:22:16,478][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 20:22:19,953][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 20:22:19,965][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 20:22:20,409][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 20:22:25,466][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 20:22:25,540][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 20:22:34,002][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-13 20:43:14,303][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-13 20:43:14,314][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-13 20:43:19,562][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-13 20:43:19,571][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-13 20:43:19,993][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-13 20:43:36,374][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-13 20:43:36,455][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-13 20:43:45,015][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-14 09:57:11,123][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-14 09:57:11,124][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-14 09:57:14,446][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-14 09:57:14,456][strhub.data.dataset][INFO] - 	lmdb:	PL_lmdb	num samples: 1471
+[2025-03-14 09:57:14,869][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-14 09:57:24,729][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-14 09:57:24,805][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-14 09:57:33,589][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-19 19:05:55,267][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-19 19:05:55,267][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-19 19:06:00,451][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-19 19:06:00,974][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-19 19:06:35,059][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-19 19:06:35,153][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-19 19:14:45,577][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-19 19:14:45,577][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-19 19:14:48,078][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-19 19:14:48,513][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-19 19:14:49,923][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-19 19:14:55,558][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-19 19:14:55,632][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-19 19:18:21,788][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-19 19:18:21,789][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-19 19:18:23,837][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-19 19:18:24,244][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-19 19:18:25,619][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-19 19:18:30,684][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-19 19:18:30,757][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-19 19:18:44,942][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-19 19:24:34,335][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-19 19:24:34,335][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-19 19:24:36,761][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-19 19:24:37,164][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-19 19:24:38,540][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-19 19:24:44,588][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-19 19:24:44,660][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-19 19:24:53,368][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-19 19:27:35,347][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-19 19:27:35,347][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-19 19:27:37,530][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-19 19:27:37,937][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-19 19:27:39,325][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-19 19:27:44,526][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-19 19:27:44,599][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-19 19:27:52,470][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-21 17:12:37,938][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-21 17:12:37,938][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-21 17:12:57,388][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-21 17:13:01,785][strhub.data.dataset][INFO] - 	lmdb:	cycle_0_data	num samples: 684073
+[2025-03-21 17:13:02,245][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-21 17:13:42,941][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-21 17:13:43,067][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-21 17:16:33,133][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-21 17:16:33,134][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-21 17:16:35,803][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-21 17:16:39,784][strhub.data.dataset][INFO] - 	lmdb:	cycle_0_data	num samples: 684073
+[2025-03-21 17:16:40,181][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-21 17:16:45,644][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-21 17:16:45,717][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-21 17:17:02,220][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-24 19:39:24,486][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-24 19:39:24,486][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-24 19:39:38,820][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-24 19:39:43,728][strhub.data.dataset][INFO] - 	lmdb:	labelled_cycle_0	num samples: 684073
+[2025-03-24 19:39:44,235][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-24 19:39:45,973][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-24 19:39:54,746][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-24 19:39:54,841][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-24 19:40:02,906][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-26 11:14:42,804][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-26 11:14:42,804][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-26 11:14:48,418][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-26 11:14:52,375][strhub.data.dataset][INFO] - 	lmdb:	labelled_cycle_0	num samples: 684073
+[2025-03-26 11:14:52,781][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-26 11:14:54,153][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-26 11:14:59,583][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-26 11:14:59,687][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-26 11:15:06,801][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-26 22:44:35,858][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-26 22:44:35,858][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-26 22:44:38,494][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-26 22:44:42,433][strhub.data.dataset][INFO] - 	lmdb:	labelled_cycle_0	num samples: 684073
+[2025-03-26 22:44:42,834][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-26 22:44:44,207][strhub.data.dataset][INFO] - 	lmdb:	unlabelled_cycle_0	num samples: 251323
+[2025-03-26 22:44:52,137][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-26 22:44:52,210][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-26 22:44:59,287][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-30 23:26:09,510][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-30 23:26:09,511][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-30 23:26:12,478][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-30 23:26:12,891][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-30 23:26:14,279][strhub.data.dataset][INFO] - 	lmdb:	PL_for_cycle_0	num samples: 251323
+[2025-03-30 23:26:19,658][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-30 23:26:19,731][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-30 23:26:27,250][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-03-31 11:35:40,388][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-03-31 11:35:40,388][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-03-31 11:35:59,965][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/train/real
+[2025-03-31 11:36:00,428][strhub.data.dataset][INFO] - 	lmdb:	hindi_old_lmdb	num samples: 69853
+[2025-03-31 11:36:01,823][strhub.data.dataset][INFO] - 	lmdb:	PL_for_cycle_0	num samples: 251323
+[2025-03-31 11:36:07,220][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/2_pdf_scraping_data/PL/data/val
+[2025-03-31 11:36:07,293][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-03-31 11:36:26,015][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-23 20:43:14,796][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 20:43:14,806][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 20:43:16,590][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-23 20:43:16,692][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-23 20:43:20,800][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-23 20:43:20,938][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-23 20:44:47,477][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 20:44:47,487][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 20:44:49,080][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-23 20:44:49,159][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-23 20:44:55,493][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-23 20:44:55,629][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-23 20:45:03,307][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-23 20:51:40,176][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 20:51:40,196][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 20:51:42,913][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-23 20:51:43,015][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-23 20:51:47,423][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-23 20:51:47,569][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-23 20:52:38,925][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 20:52:38,945][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 20:56:32,528][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 20:56:32,539][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 20:56:34,578][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-23 20:56:34,668][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-23 20:56:40,225][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-23 20:56:40,364][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-23 20:56:51,898][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-23 21:00:07,953][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 21:00:07,964][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 21:00:10,081][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-23 21:00:10,166][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-23 21:00:15,487][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-23 21:00:15,624][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-23 21:00:26,727][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-23 21:01:47,543][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-23 21:01:47,554][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-23 21:01:49,542][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-23 21:01:49,624][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-23 21:01:54,945][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-23 21:01:55,081][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-23 21:02:06,621][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-24 21:29:32,228][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-24 21:29:32,238][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-24 21:29:35,881][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-24 21:29:35,993][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-24 21:29:47,326][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-24 21:29:47,460][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-25 07:59:34,420][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-25 07:59:34,430][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-25 07:59:36,735][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-25 07:59:36,821][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-25 07:59:43,461][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-25 07:59:43,596][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-25 07:59:54,403][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-25 08:22:32,502][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-25 08:22:32,512][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-25 08:22:34,550][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-25 08:22:34,633][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 9999
+[2025-07-25 08:22:39,879][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-25 08:22:39,959][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12945
+[2025-07-25 08:22:48,390][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-25 08:32:16,783][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-25 08:32:16,794][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-25 08:32:19,168][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-25 08:32:19,231][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 10000
+[2025-07-25 08:32:24,532][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-25 08:32:24,610][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-25 08:32:32,765][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-26 20:22:48,329][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 20:22:48,340][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 20:22:50,529][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 20:22:50,674][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 20000
+[2025-07-26 20:22:56,514][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-26 20:22:56,590][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-26 20:47:08,738][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 20:47:08,748][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 20:47:11,435][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 20:47:11,544][strhub.data.dataset][INFO] - 	lmdb:	sampled_10k	num samples: 9999
+[2025-07-26 20:47:19,692][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-26 20:47:19,773][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12945
+[2025-07-26 20:47:28,175][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-26 20:59:57,552][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 20:59:57,553][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 20:59:59,832][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 21:02:39,555][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 21:02:39,566][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 21:02:41,632][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 21:02:42,106][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 37
+[2025-07-26 21:02:51,365][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-26 21:02:51,999][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 56
+[2025-07-26 21:03:59,106][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 21:03:59,117][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 21:04:01,225][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 21:04:01,339][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 15000
+[2025-07-26 21:04:06,497][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-26 21:04:06,634][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-26 21:07:07,401][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 21:07:07,402][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 21:07:09,376][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 21:07:09,493][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 15000
+[2025-07-26 21:07:13,677][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-26 21:07:13,812][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-26 21:07:24,383][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-26 21:22:59,479][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-26 21:22:59,490][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-26 21:23:01,479][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-26 21:23:01,616][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 20000
+[2025-07-26 21:23:06,449][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-26 21:23:06,524][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-26 21:23:14,143][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-27 07:10:53,497][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 07:10:53,497][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 07:10:55,407][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 07:10:55,819][strhub.data.dataset][INFO] - 	lmdb:	full_data	num samples: 69853
+[2025-07-27 07:11:01,886][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 07:11:01,961][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 07:11:08,654][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-27 10:10:36,038][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 10:10:36,049][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 10:10:38,787][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 10:10:39,220][strhub.data.dataset][INFO] - 	lmdb:	full_data	num samples: 69853
+[2025-07-27 10:10:49,484][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 10:10:49,558][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 10:13:50,904][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 10:13:50,914][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 10:13:52,993][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 10:13:53,416][strhub.data.dataset][INFO] - 	lmdb:	full_data	num samples: 69853
+[2025-07-27 10:13:58,966][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 10:13:59,041][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 10:14:06,537][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-27 10:53:18,813][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 10:53:18,813][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 10:53:20,397][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 10:53:20,803][strhub.data.dataset][INFO] - 	lmdb:	full_data	num samples: 69853
+[2025-07-27 10:53:24,928][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 10:53:25,003][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 10:53:30,913][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-27 16:48:13,458][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 16:48:13,469][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 16:48:16,001][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 16:48:16,439][strhub.data.dataset][INFO] - 	lmdb:	full_data	num samples: 69853
+[2025-07-27 16:48:27,672][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 16:48:27,748][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 16:48:35,662][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-27 23:15:17,948][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 23:15:17,958][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 23:15:20,594][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 23:15:20,797][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 30000
+[2025-07-27 23:15:31,273][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 23:15:31,348][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 23:15:39,232][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-27 23:25:02,130][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 23:25:02,130][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 23:25:24,258][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 23:25:24,368][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 10000
+[2025-07-27 23:26:15,417][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 23:26:15,491][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 23:29:25,424][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-27 23:29:25,435][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-27 23:29:27,440][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-27 23:29:27,527][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 15000
+[2025-07-27 23:29:31,774][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-27 23:29:31,849][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12708
+[2025-07-27 23:29:58,375][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-28 08:54:17,355][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-28 08:54:17,366][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-28 08:54:19,361][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-28 08:54:19,456][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 14997
+[2025-07-28 08:54:25,883][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-28 08:54:25,965][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12945
+[2025-07-28 08:54:34,430][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-28 09:02:57,296][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-28 09:02:57,307][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-28 09:02:59,369][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-28 09:02:59,578][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 29993
+[2025-07-28 09:03:05,625][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-28 09:03:05,706][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12945
+[2025-07-28 09:03:14,016][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-28 09:13:45,355][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-28 09:13:45,366][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-28 09:13:57,243][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-28 09:13:57,559][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 29997
+[2025-07-28 09:14:22,822][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-28 09:14:22,959][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-28 09:14:44,315][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-28 09:23:32,341][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-28 09:23:32,351][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-28 09:23:34,537][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-28 09:23:34,656][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 15000
+[2025-07-28 09:23:40,221][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-28 09:23:40,358][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 19975
+[2025-07-28 09:23:51,737][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.
+[2025-07-29 11:38:46,532][torch.distributed.distributed_c10d][INFO] - Added key: store_based_barrier_key:1 to store for rank: 1
+[2025-07-29 11:38:46,543][torch.distributed.distributed_c10d][INFO] - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+[2025-07-29 11:38:48,500][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/train/real
+[2025-07-29 11:38:48,594][strhub.data.dataset][INFO] - 	lmdb:	sampled	num samples: 14997
+[2025-07-29 11:38:53,581][strhub.data.dataset][INFO] - dataset root:	/ssd_scratch/cvit/lalitha/data/val
+[2025-07-29 11:38:53,661][strhub.data.dataset][INFO] - 	lmdb:	.	num samples: 12945
+[2025-07-29 11:39:02,467][torch.nn.parallel.distributed][INFO] - Reducer buckets have been rebuilt in this iteration.

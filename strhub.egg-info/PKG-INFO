@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: strhub
+Version: 1.1.0
+Summary: Scene Text Recognition Model Hub: A collection of deep learning models for Scene Text Recognition
+Author-email: Darwin Bautista <baudm@users.noreply.github.com>
+Project-URL: Homepage, https://github.com/baudm/parseq
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: NOTICE
+License-File: LICENSE
+Provides-Extra: train
+Provides-Extra: test
+Provides-Extra: bench
+Provides-Extra: tune
+Dynamic: license-file
+
+# PARSeq_Indic_HTR
+Experimenting on PARSeq for Indic HTR

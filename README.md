@@ -1,2 +1,2 @@
-# SemiHastakshar
-Official Implementation of SemiHastakshar: Generalizable Indic Handwritten OCR through Semi-Supervised Learning
+# PARSeq_Indic_HTR
+Experimenting on PARSeq for Indic HTR

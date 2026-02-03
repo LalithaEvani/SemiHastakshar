@@ -1,0 +1,60 @@
+# Configuration for Pseudo-Labeling Pipeline
+
+# --- General Settings ---
+# num_cycles: 40 #for 15k sampled
+# num_cycles: 20 #for 30k sampled
+num_cycles: 7
+base_output_dir: /ssd_scratch/cvit/lalitha/outputs
+confidence_threshold: 0.99
+cleanup_intermediate: true
+# max_pseudo_samples_per_cycle: 15000 
+# max_pseudo_samples_per_cycle: 30000 
+max_pseudo_samples_per_cycle: 80000
+# --- Initial Model ---
+initial_checkpoint: /ssd_scratch/cvit/lalitha/outputs/cycle_4/training_output_parseq/checkpoints/last.ckpt
+
+# --- Data Paths ---
+# Directory containing original Labeled LMDB dataset(s) for training
+original_train_dir: /ssd_scratch/cvit/lalitha/data/train/real
+# Unlabeled Data (LMDB format - must contain images, can have dummy labels)
+# Path to the specific unlabeled LMDB directory
+unlabeled_lmdb_path: /ssd_scratch/cvit/lalitha/unlabelled/train_lmdb
+# unlabeled_lmdb_path: /ssd_scratch/cvit/lalitha/2_pdf_scraping_data/unlabelled_one/500_sampled_test_data/lmdb_data
+
+# Unlabeled Data (Image files - needed for saving high-confidence samples)
+unlabeled_images_root: /ssd_scratch/cvit/lalitha/unlabelled/train
+# unlabeled_images_root: /ssd_scratch/cvit/lalitha/2_pdf_scraping_data/unlabelled_one/500_sampled_test_data/images/
+
+# Directory containing original Validation LMDB dataset(s)
+original_val_dir: /ssd_scratch/cvit/lalitha/data/val
+
+# Directory containing original Test LMDB dataset(s)
+original_test_dir: /ssd_scratch/cvit/lalitha/data/test
+
+# Name of the specific Test LMDB folder inside original_test_dir used for evaluation
+test_lmdb_foldername: iiit-indic-hw-words # Actual name of the LMDB folder inside original_test_dir
+
+# --- Training Settings ---
+hydra_train_config_path: /home2/evanilalitha/10_parseq_code/generalized_hindi_HTR/configs
+hydra_train_config_name: main
+train_overrides:
+  model: parseq
+  charset: kannada
+  dataset: real # This will be used by SceneTextDataModule when scanning data.root_dir
+  # trainer.max_epochs: 10 #for 15k sampled
+  # trainer.max_epochs: 20 #for 30k sampled
+  trainer.max_epochs: 30
+  trainer.devices: 2
+
+# === NEW: Minimum epoch for selecting best checkpoint ===
+min_epoch_for_selection: 15 # Select best ckpt only if epoch > this value
+# min_epoch_for_selection: 10 # for 30k samples 
+# --- Script Paths ---
+save_high_confidence_script: save_high_confidence_images.py
+convert_lmdb_script: convert_to_lmdb.py
+train_script: /home2/evanilalitha/10_parseq_code/generalized_hindi_HTR/train.py
+test_script: /home2/evanilalitha/10_parseq_code/generalized_hindi_HTR/test.py
+
+
+# --- Testing Settings ---
+# test_folder_name is implicitly defined by test_lmdb_foldername above
