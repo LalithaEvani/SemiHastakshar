@@ -1,2 +1,2 @@
-# PARSeq_Indic_HTR
-Experimenting on PARSeq for Indic HTR
+# SemiHastakshar
+You can find the code related to the paper in SemiHastakshar folder. 
